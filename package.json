@@ -1,0 +1,8 @@
+{
+  "name": "amal-app",
+  "version": "0.0.1",
+  "dependencies": {
+    "react": "^18.1.0",
+    "react-bootstrap": "^2.4.0"
+  }
+}
